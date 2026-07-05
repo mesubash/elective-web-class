@@ -1,5 +1,6 @@
 package io.github.subash.electiveclass.model;
 
+import io.github.subash.electiveclass.model.enums.Priority;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
