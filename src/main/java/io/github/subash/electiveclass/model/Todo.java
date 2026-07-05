@@ -48,11 +48,5 @@ public class Todo {
         updatedAt = LocalDateTime.now();
     }
 
-    public enum Priority {
-        LOW, MEDIUM, HIGH
-    }
-
-
-
 
 }
